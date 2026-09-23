@@ -1,0 +1,4 @@
+interface:
+  display_name: "SuperPocock"
+  short_description: "Risk-adaptive Matt + Superpowers workflow"
+  default_prompt: "Use $superpocock to take this change from design through evidence-backed completion."
